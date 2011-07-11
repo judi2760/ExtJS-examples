@@ -1,0 +1,15 @@
+README
+======
+
+Welcome to my collection of ExtJS examples. Each example can be found in its
+own directory.
+
+Please ensure that you place a "ext-4.0" link to you ExtJS-4.0 installation
+inside every example folder. There already is one link but it points to my
+personal ExtJS installation. You need to fix this by hand now.
+
+Don't hesitate to contact me if you have ideas for improvements or just critics.
+
+Happy coding,
+
+    -kwk
