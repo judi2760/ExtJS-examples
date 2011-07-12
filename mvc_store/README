@@ -4,7 +4,7 @@ README
 In this example we are going to program an MVC (Model View Controller) webstore
 with customers, products and orders.
 
-The application is using the directory layout that is suggested by Sencha.
+The application is using the directory layout that is recommended by Sencha.
 
 This is the schema we try to realize with ExtJS:
 
